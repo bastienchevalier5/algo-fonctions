@@ -1,0 +1,17 @@
+var 
+Début
+Fonction nb_lettres (chaîne de caractère mot)
+  nb = compter nombre lettres (mot)
+  retourner nb
+Fin
+
+Afficher "Saisir mot"
+Récupérer (mot)
+Tant que mot != "STOP":
+  nb_lettres(mot)
+  Afficher "Saisir mot"
+  Récupérer (mot)
+Fin Tant que
+Fin
+  
+  
