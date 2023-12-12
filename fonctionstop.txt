@@ -1,6 +1,6 @@
 var mot:chaîne de caractères
 Début
-Fonction nb_lettres (chaîne de caractère mot)
+Fonction nb_lettres (chaîne de caractère mot):entier
   nb = compter nombre lettres (mot)
   retourner nb
 Fin
