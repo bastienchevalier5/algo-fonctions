@@ -1,4 +1,4 @@
-var 
+var mot:chaîne de caractères
 Début
 Fonction nb_lettres (chaîne de caractère mot)
   nb = compter nombre lettres (mot)
