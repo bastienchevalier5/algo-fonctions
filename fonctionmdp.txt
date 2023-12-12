@@ -1,0 +1,12 @@
+var mot,i : chaîne de caractères
+Début
+Fonction motdepasse (lettre:caractère) :[caractère]
+   lettre == *
+   afficher lettre
+Fin
+Afficher "Saisir un mot"
+Recuperer (mot)
+Pour i de i = 0 jusqu'à i=mot:
+  motdepasse(i)
+Fin Pour
+Fin
