@@ -1,0 +1,11 @@
+var mot : chaîne de caractère
+Début
+  Fonction motdepasse (caractère lettre,chaîne de caractères mot) :chaîne de caractères
+   mot = 
+   afficher lettre
+  Fin
+Afficher "Saisir un mot"
+Recuperer (mot)
+  motdepasse(i)
+Fin Pour
+Fin
